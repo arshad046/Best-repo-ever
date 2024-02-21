@@ -1,2 +1,2 @@
 # Best-repo-ever
-this is arshad from pHRism solutions..
+this is arshad from pHRism solutions
